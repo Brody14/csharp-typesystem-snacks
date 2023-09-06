@@ -120,7 +120,7 @@ Console.WriteLine($"La somma dei numeri dispari è: {oddSum}");
 //Snack 9: Crea un array vuoto e chiedi all’utente un numero da inserire nell’array.
 //Continua a chiedere i numeri all’utente e a inserirli nell’array, fino a quando la somma degli elementi è minore di 50.
 
-int[] fiftyArray;
+int[] fiftyArray = new int[100];
 int sumToFifty = 0;
 
 do

@@ -5,6 +5,8 @@ VisualStudioVersion = 17.7.34024.191
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharp-typesystem-snacks", "csharp-typesystem-snacks\csharp-typesystem-snacks.csproj", "{47679E76-91D3-4C84-8E32-AE7AA5F1DB9D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharp-typesystem-snacks-bonus", "csharp-typesystem-snacks-bonus\csharp-typesystem-snacks-bonus.csproj", "{BD9DCF5D-7439-422A-8557-58FB745BA13C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{47679E76-91D3-4C84-8E32-AE7AA5F1DB9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{47679E76-91D3-4C84-8E32-AE7AA5F1DB9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{47679E76-91D3-4C84-8E32-AE7AA5F1DB9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD9DCF5D-7439-422A-8557-58FB745BA13C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD9DCF5D-7439-422A-8557-58FB745BA13C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD9DCF5D-7439-422A-8557-58FB745BA13C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD9DCF5D-7439-422A-8557-58FB745BA13C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
